@@ -7,10 +7,10 @@ This is an online paintings website developed using HTML, CSS, PHP, JavaScript, 
  2) pre requisites
  3)  Installation
  4)  Usage
- 5)  Technologies Used
+ 5)  database setup
+ 6)  contribution
 
-**Features:
-**
+**Features:**
 
 a) User registration and authentication system.
 
